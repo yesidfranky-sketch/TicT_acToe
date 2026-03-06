@@ -2,7 +2,7 @@
 
 ## Versión 1
 Juego 3x3 en inglés.
-(imagenes/version 1.png)
+(imagenes/versión 1.png.jpeg)
 
 
 ## Versión 2
